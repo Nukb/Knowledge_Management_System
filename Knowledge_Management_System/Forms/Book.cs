@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Knowledge_Management_System
+namespace Knowledge_Management_System.Forms
 {
-    public partial class Form1 : Form
+    public partial class Book : Form
     {
-        public Form1()
+        public Book()
         {
             InitializeComponent();
         }
